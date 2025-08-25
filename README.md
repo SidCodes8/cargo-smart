@@ -1,11 +1,11 @@
-**SUPPLY CHAIN ANALYTICS - CARGO SMARTY**
-![1](https://github.com/SidCodes8/cargo-smart/images/3.png)
+**SUPPLY CHAIN ANALYTICS - CARGO SMART**
+![1](images/3.png)
 
-![2](https://github.com/SidCodes8/cargo-smart/images/4.png)
+![2](images/4.png)
 
-![3](https://github.com/SidCodes8/cargo-smart/images/5.png)
+![3](images/5.png)
 
-![4](https://github.com/SidCodes8/cargo-smart/images/2.png)
+![4](images/2.png)
 
 **I) PROJECT DESCRIPTION**
 
