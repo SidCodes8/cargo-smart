@@ -186,7 +186,7 @@ To be able to solve the problem, it is first necessary to find out where the roo
 
 Based on the output of EDA, a Hypothesis issue tree was developed
 
-![image](https://github.com/SidCodes8/cargo-smart/images/2.png)
+![image](images/2.png)
 
 A supply chain will consist of three main components: suppliers - company - customers.
 
